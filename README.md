@@ -16,13 +16,13 @@ Below are the times of the different sorting algorithms and how many items they 
 2. Bubble Sort - The slowest sort, but the fastest when the array is already sorted.
 ![Bubble](/SortingImages/Bubble.PNG)
 
-3. Quick Sort - Very fast with unsorted arrays, but very slow with already sorted arrays. 
+3. Quick Sort - The Fastest sort with unsorted arrays, but very slow with already sorted arrays. 
 ![Quick](/SortingImages/quick.PNG)
 
 4. Insertion Sort - Pretty slow but still faster than Bubble Sort, very good with sorted arrays.
 ![Insertion](/SortingImages/insertion.PNG)
 
-5. Radix Sort - The Fastest Sort for unsorted random uniformly distributed integers. Not As fast with sorted numbers.
+5. Radix Sort - Very fast for unsorted random uniformly distributed integers. Not As fast with sorted numbers, but better than quick sort.
 ![Radix](/SortingImages/radix.PNG)
 
 6. Selection Sort - The second slowest for unsorted arrays, but slower than bubble for sorted arrays. 
@@ -34,4 +34,4 @@ Below are the times of the different sorting algorithms and how many items they 
 8. Heap Sort - Comprable speed to quicksort, much better speed in regards to sorted arrays. 
 ![Heap](/SortingImages/heap.PNG)
 
-For this specific test, Radix Sort came out the fastest when the array was unsorted. However if you have the possibility of a sorted array, it would be best to go with Merge sort. 
+For this specific test, Quick Sort came out the fastest when the array was unsorted. However if you have the possibility of a sorted array, it would be best to go with Merge sort, or even Radix sort. 
