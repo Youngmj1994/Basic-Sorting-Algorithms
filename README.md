@@ -5,7 +5,7 @@ This is a program with eight different basic sorting algorithms, and a visualize
 The UI is created with OneLoneCoder's PixelGameEngine. Check out his GitHub here https://github.com/OneLoneCoder!
 
 Here is an image of random arrary of numbers with the numbers represented by randomly colored rectangles.
-![Random](/SortingImages/random.png)
+![Random](/SortingImages/random.PNG)
 
 ---
 Below are the times of the different sorting algorithms and how many items they sorted. The rectangles will show that they have been properly sorted.
